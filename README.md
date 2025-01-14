@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muneeb</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNwNTJ2OGNsMjluM20xOHVybjVwZTBkNDl3dWMyYXQzcGN3a2JiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
+
 
 - 🔭 I’m currently working as a [DevOps Engineer in](Technyx Systems)
 
@@ -32,10 +32,7 @@
   
 ### DevOps
   
- <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
+ <p float="left"> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
