@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Muneeb</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">A passionate Network System Engineer</h3>
 
 
 
-- 🔭 I’m currently working as a [DevOps Engineer in](Technyx Systems)
+- 🔭 I’m currently working as a Network System Engineer in Satcomm Pvt Ltd
 
 
 <p float="left">
